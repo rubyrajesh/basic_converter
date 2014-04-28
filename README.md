@@ -18,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    BasicConverter::Temperature.ctof(32)
+    BasicConverter::Temperature.ftoc(90)    
 
 ## Contributing
 
