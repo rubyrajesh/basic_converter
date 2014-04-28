@@ -2,20 +2,6 @@
 
 A simple ruby gem to convert Temperature from Celcius to Fahrenheit and vice versa.
 
-## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'basic_converter'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install basic_converter
-
 ## Usage
 
     BasicConverter::Temperature.ctof(32)
